@@ -9,6 +9,7 @@ function Welcom() {
         praesentium necessitatibus voluptas labore veritatis eum! Minus quaerat
         necessitatibus voluptatibus culpa?
       </h1>
+      <h1>Lorem ipsum dolor sit amet.</h1>
     </div>
   );
 }
